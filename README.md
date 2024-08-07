@@ -1,10 +1,10 @@
 ## Contributors
 
-[Henrique Sousa (Self)] (https://github.com/henriquecscode)
+[Henrique Sousa (Self)](https://github.com/henriquecscode)
 
-[Mateus Silva] (https://github.com/lessthelonely)
+[Mateus Silva](https://github.com/lessthelonely)
 
-[Melissa Silva] (https://github.com/melisilva)
+[Melissa Silva](https://github.com/melisilva)
 
 ## About the Project
 
